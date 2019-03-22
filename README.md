@@ -10,6 +10,6 @@ VnDT is a Vietnamese dependency treebank, consisting of 10K+ sentences. The cons
       pages = {196-207}
     }
 
-VnDT is distributed for research or educational purposes. __To obtain VnDT, please fill [user agrrement form](https://github.com/datquocnguyen/VnDT/blob/master/LicenseVnDT.pdf)!__
+VnDT is distributed for research or educational purposes. __To obtain VnDT, please fill [user agreement form](https://github.com/datquocnguyen/VnDT/blob/master/LicenseVnDT.pdf)!__
 
 
