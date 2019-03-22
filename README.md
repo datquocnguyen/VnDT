@@ -1,4 +1,4 @@
-# VnDT -- The Vietnamese Dependency Treebank
+# The Vietnamese dependency treebank VnDT
 
 VnDT is a Vietnamese dependency treebank, consisting of 10K+ sentences. The construction of VnDT is detailed in our [paper](https://github.com/datquocnguyen/VnDT/blob/master/VnDT-paper-CameraReadyVersion.pdf):
 
