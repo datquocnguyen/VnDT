@@ -12,4 +12,7 @@ VnDT is a Vietnamese dependency treebank, consisting of 10K+ sentences. The cons
 
 VnDT is distributed for research or educational purposes. __To obtain VnDT, please fill [user agreement form](https://github.com/datquocnguyen/VnDT/blob/master/LicenseVnDT.pdf)!__
 
+### Versions:
 
+ - 12/2018: Released VnDT version 1.1 (VnDTv1.1), which fixed few conversion errors resulted by annotation inconsistencies in the Vietnamese constituent treebank.
+ - 04/2014: Released VnDT version 1.0 (VnDTv1.0).
