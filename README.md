@@ -35,7 +35,7 @@ The VnDT treebank with automatically predicted POS tags is split as follows:
 - VnDTv1.1-predicted-POS-tags-dev.conll: 200 sentences
 - VnDTv1.1-predicted-POS-tags-test.conll: 1020 sentences
 
-The automatically predicted POS tags are resulted in from handling a data leakage issue as detailed in the [following paper](http://arxiv.org/abs/2101.01476):
+The automatically predicted POS tags are resulted from handling a data leakage issue as detailed in the [following paper](http://arxiv.org/abs/2101.01476):
 
     @inproceedings{phonlp,
     title     = {{PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing}},
@@ -49,4 +49,4 @@ Please additionally cite this paper whenever the VnDT variant with automatically
 ## Versions:
 
 - 04/2014: Released VnDT version 1.0 (VnDTv1.0).
-- 12/2018: Released VnDT version 1.1 (VnDTv1.1), fixing several conversion errors that are resulted from annotation inconsistencies in the Vietnamese constituent treebank.
+- 12/2018: Released VnDT version 1.1 (VnDTv1.1), fixing several conversion errors that are caused by annotation inconsistencies in the Vietnamese constituent treebank.
