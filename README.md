@@ -12,7 +12,7 @@ VnDT is a Vietnamese dependency treebank, consisting of 10K+ sentences. The cons
 
 > **By downloading the VnDT treebank, USER agrees:**
 > - to use VnDT for research or educational purposes only.
-> - to not distribute or part of VnDT in any original or modified form.
+> - to not distribute VnDT or part of VnDT in any original or modified form.
 >- and to cite our paper whenever VnDT is used to help produce published results.
 
 ## Data split
